@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+}
+section {
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+  color: white;
+  height: 10vh;
+}
+.centerDiv {
+  background-color: wheat;
+  text-align: center;
+  height: 70vh;
+  padding-top: 30px;
+  margin: 200px;
+  margin-top: 0;
+}
+.details {
+  padding-bottom: 25px;
+}
